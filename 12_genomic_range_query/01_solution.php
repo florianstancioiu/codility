@@ -1,5 +1,5 @@
 <?php
-//  12 ... pula mea
+//  12
 
 function solution($s, $p, $q) {
     $a = [];
