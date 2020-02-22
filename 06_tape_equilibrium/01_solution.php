@@ -1,9 +1,5 @@
-/***
-
-result: 46%
-
-***/
-
+<?php
+// 46
 function solution($a) {
     $lowest_difference = $array_sum = array_sum($a);
     $left_sum = 0;

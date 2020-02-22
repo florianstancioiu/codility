@@ -1,9 +1,5 @@
-/***
-
-    result: 44%
-
-***/
-
+<?php 
+// 44
 function solution($a) {
     while(sizeof($a) !== 0) {
         $last_element = array_pop($a);

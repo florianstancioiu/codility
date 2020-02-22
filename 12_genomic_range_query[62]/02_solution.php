@@ -1,5 +1,5 @@
+<?php
 // 62
-
 function solution($s, $p, $q) {
     $a = [];
     $b = [];

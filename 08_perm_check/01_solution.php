@@ -1,7 +1,5 @@
-/***
-result: 83
-***/
-
+<?php
+// 83
 function solution($a) {
     $n = array_unique($a);
 

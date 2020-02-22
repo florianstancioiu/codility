@@ -1,11 +1,9 @@
+<?php
 // 50
-
 function solution($a) {
     $sums = [];
     $min = null;
     $min_pos = 0;
-
-
 
     for ($i = 0; $i<sizeof($a) - 1; $i++) {
         $sums[$i] = $a[$i] + $a[$i + 1];

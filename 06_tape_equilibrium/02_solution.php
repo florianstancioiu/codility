@@ -1,9 +1,5 @@
-/***
-
-result: 100
-
-***/
-
+<?php
+// 100
 function solution($a) {
     $lowest_difference = null;
     $array_sum = array_sum($a);

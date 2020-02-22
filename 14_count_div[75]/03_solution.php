@@ -1,3 +1,4 @@
+<?php
 // 75
 function solution($a, $b, $k) {
     if ($a === $b) {
@@ -10,4 +11,3 @@ function solution($a, $b, $k) {
 
     return (int) floor(($b - $a) / $k) + 1;
 }
- 

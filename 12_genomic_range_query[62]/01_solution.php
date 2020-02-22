@@ -1,6 +1,5 @@
 <?php
-//  12
-
+// 12
 function solution($s, $p, $q) {
     $a = [];
     $b = [];

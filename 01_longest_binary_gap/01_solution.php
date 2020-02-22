@@ -1,10 +1,5 @@
 <?php
-
-/*
-    40% accurate
-    INCORRECT
-*/
-
+// 40
 function solution($n) {
     $longest_gap = 0;
     $current_gap = 0;

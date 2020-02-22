@@ -1,5 +1,5 @@
+<?php
 // 0
-
 function solution($a) {
     $min_position = null;
     $min = null;

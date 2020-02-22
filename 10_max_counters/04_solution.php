@@ -1,3 +1,4 @@
+<?php
 // 100
 function solution($n, $a) {
     $max = $add_to_each = 0;

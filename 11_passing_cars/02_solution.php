@@ -1,5 +1,5 @@
+<?php
 // 100
-
 function solution($a) {
     $b = [];
     $max = 0;

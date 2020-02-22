@@ -1,9 +1,5 @@
-/***
-
-result: 100
-
-****/
-
+<?php
+// 100
 function solution($a) {
     sort($a);
 

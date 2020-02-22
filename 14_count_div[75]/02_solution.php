@@ -1,4 +1,5 @@
-// 25%
+<?php
+// 25
 function solution($a, $b, $k) {
     if (($b - $a) < $k || $a === $b) {
         return 0;

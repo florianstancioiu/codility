@@ -1,5 +1,5 @@
+<?php
 // 0
-
 function solution($a) {
     $sum = [];
     $avg_a = [];
@@ -29,7 +29,3 @@ function solution($a) {
 
     return $min_position;
 }
-
-// to test:
-// [-3, -5, -8, -4, -10]
-// [1000, -1000]

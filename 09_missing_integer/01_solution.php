@@ -1,8 +1,5 @@
-/***
-result: 44%
-
-***/
-
+<?php
+// 44
 function solution($a) {
     $size = sizeof($a);
     $smallest_number = $size + 1;

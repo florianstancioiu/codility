@@ -1,8 +1,5 @@
-/****
-
-result: 50
-
-****/
+<?php
+// 50
 function solution($a) {
     sort($a);
 

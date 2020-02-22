@@ -1,7 +1,5 @@
-/***
-result: 100
-***/
-
+<?php
+// 100
 function solution($a) {
     $size = sizeof($a);
     $b = [];

@@ -1,9 +1,5 @@
-/***
-
-result: 72
-
-***/
-
+<?php
+// 72
 function solution($x, $a) {
     $sum = 0;
     $vals = [];

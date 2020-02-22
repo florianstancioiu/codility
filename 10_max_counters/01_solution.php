@@ -1,5 +1,5 @@
+<?php
 // 66
-
 function solution($n, $a) {
     $b = array_fill(0, $n, 0);
     $max = 0;

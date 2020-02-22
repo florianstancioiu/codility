@@ -1,7 +1,5 @@
 <?php
 // 62
-
-
 function solution($s, $p, $q) {
     $val_array = [
         "A" => 1,

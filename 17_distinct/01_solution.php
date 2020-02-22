@@ -1,3 +1,4 @@
+<?php
 // 100
 function solution($a) {
     $distinct = [];
