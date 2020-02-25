@@ -2,9 +2,9 @@
 // score:
 // correctness:
 // performance:
-// https://app.codility.com/demo/results/
+// link: https://app.codility.com/demo/results/
 // start:
-// end: 
+// end:
 function solution() {
 
 }
