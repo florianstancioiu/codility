@@ -26,52 +26,42 @@ There are no problem descriptions in this repo because they are copyrighted by c
 # Content
 The * sign means that I didn't finish all the tasks with a score of 100, I need to read the material and retry the tasks  
 
-### Iterations
-[Reading Material (PDF)](https://codility.com/media/train/Iterations.pdf)
+### 1 - Iterations
+* Reading Material: [(PDF)](https://codility.com/media/train/Iterations.pdf)
+* Tasks: 1
 
-Tasks: 1
+### 2 - Arrays
+* Reading Material: [(PDF)](https://codility.com/media/train/0-Arrays.pdf)
+* Tasks: 2, 3
 
-### Arrays
-[Reading Material (PDF)](https://codility.com/media/train/0-Arrays.pdf)
+### 3 - Time Complexity
+* Reading Material: [(PDF)](https://codility.com/media/train/1-TimeComplexity.pdf)
+* Tasks: 4, 5, 6
+
+### 4 - Counting Elements
+* Reading Material: [(PDF)](https://codility.com/media/train/2-CountingElements.pdf)
+* Tasks: 7, 8, 9, 10
   
-Tasks: 2, 3
+### 5 - Prefix Sums *
+* Reading Material: [(PDF)](https://codility.com/media/train/3-PrefixSums.pdf)
+* Tasks: 11, 12, 13, 14
 
-### Time Complexity
-[Reading Material (PDF)](https://codility.com/media/train/1-TimeComplexity.pdf)
-  
-Tasks: 4, 5, 6
+### 6 - Sorting *
+* Reading Material: [(PDF)](https://codility.com/media/train/4-Sorting.pdf)
+* Tasks: 15, 16, 17, 18
 
-### Counting Elements
-[Reading Material (PDF)](https://codility.com/media/train/2-CountingElements.pdf)
-  
-Tasks: 7, 8, 9, 10
-  
-### Prefix Sums *
-[Reading Material (PDF)](https://codility.com/media/train/3-PrefixSums.pdf)
-  
-Tasks: 11, 12, 13, 14
+### 7 - Stacks and Queues *
+* Reading Material: [(PDF)](https://codility.com/media/train/5-Stacks.pdf)
+* Tasks: 19, 20, 21, 22
 
-### Sorting *
-[Reading Material (PDF)](https://codility.com/media/train/4-Sorting.pdf)
-  
-Tasks: 15, 16, 17, 18
+### 8 - Leader
+* Reading Material: [(PDF)](https://codility.com/media/train/6-Leader.pdf)
+* Tasks: 23, 24
 
-### Stacks and Queues *
-[Reading Material (PDF)](https://codility.com/media/train/5-Stacks.pdf)
-  
-Tasks: 19, 20, 21, 22
+### 9 - Maximum slice problem *
+* Reading Material: [(PDF)](https://codility.com/media/train/7-MaxSlice.pdf)
+* Tasks: 25, 26, 27
 
-### Leader
-[Reading Material (PDF)](https://codility.com/media/train/6-Leader.pdf)
-  
-Tasks: 23, 24
-
-### Maximum slice problem *
-[Reading Material (PDF)](https://codility.com/media/train/7-MaxSlice.pdf)
-
-Tasks: 25, 26, 27
-
-### Prime and composite numbers
-[Reading Material (PDF)](https://codility.com/media/train/8-PrimeNumbers.pdf)
-
-Tasks: 28, 29, 30, 31
+### 10 - Prime and composite numbers
+* Reading Material: [(PDF)](https://codility.com/media/train/8-PrimeNumbers.pdf)
+* Tasks: 28, 29, 30, 31
