@@ -1,15 +1,10 @@
 # Note
-I removed the description files because they are copyrighted, use the link comment at the top of the solution file to check the description of the problem (if the link comment exists) on codility.com
-
-# Stuff to memorize:
-
-*
-* Leader - 8.3. Solution with O(n)time complexity
-* Maximum Slice - 9.2 & 9.3
+There are no problem descriptions in this repo because they are copyrighted by codility, in order to read the problem descriptions use the link included at the top of the solution files (if they exist).
 
 # Optimization tips:
 
 * __Read the material__
+* __Learn about the O(n) notation__
 * Avoid intricate for statements
 * Avoid creating array variables
 * Reduce the number of variables
