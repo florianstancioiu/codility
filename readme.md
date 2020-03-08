@@ -5,6 +5,7 @@ There are no problem descriptions in this repo because they are copyrighted by c
 
 * __Read the material__
 * __Learn about the O(n) notation__
+* __Solve the problem on paper and check if the growth notation of your solution O(n) is acceptable__
 * Avoid intricate for statements
 * Avoid creating array variables
 * Reduce the number of variables
@@ -41,7 +42,7 @@ The * sign means that I didn't finish all the tasks with a score of 100, I need 
 ### 4 - Counting Elements
 * Reading Material: [(PDF)](https://codility.com/media/train/2-CountingElements.pdf)
 * Tasks: 7, 8, 9, 10
-  
+
 ### 5 - Prefix Sums *
 * Reading Material: [(PDF)](https://codility.com/media/train/3-PrefixSums.pdf)
 * Tasks: 11, 12, 13, 14
