@@ -45,7 +45,7 @@ The * sign means that I didn't finish all the tasks with a score of 100, I need 
 
 ### 5 - Prefix Sums *
 * Reading Material: [(PDF)](https://codility.com/media/train/3-PrefixSums.pdf)
-* Tasks: 11, 12, 13, 14
+* Tasks: 11*, 12*, 13*, 14
 
 ### 6 - Sorting *
 * Reading Material: [(PDF)](https://codility.com/media/train/4-Sorting.pdf)
