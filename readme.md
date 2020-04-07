@@ -51,7 +51,7 @@ The * sign means that I didn't get a 100 score, I need to retry the task
 
 ### 9 - Maximum slice problem *
 * Reading Material: [(PDF)](https://codility.com/media/train/7-MaxSlice.pdf)
-* Tasks: 25, 26, 27
+* Tasks: 25, 26, 27*
 
 ### 10 - Prime and composite numbers
 * Reading Material: [(PDF)](https://codility.com/media/train/8-PrimeNumbers.pdf)
