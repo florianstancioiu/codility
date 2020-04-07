@@ -1,31 +1,21 @@
 # Note
-There are no problem descriptions in this repo because they are copyrighted by codility, in order to read the problem descriptions use the link included at the top of the solution files (if they exist).
+There are no descriptions in this repo because they are copyrighted by codility.
+If you want to want to know what the problem consists of, use the link included at the top of solution files (if it exists).
 
-# Optimization tips:
-
-* __Read the material__
-* __Learn about the O(n) notation__
-* __Solve the problem on paper and check if the growth notation of your solution O(n) is acceptable__
-* Avoid intricate for statements
-* Avoid creating array variables
+# Optimization tips
+* __Read the description__
+* Reduce the number of `for` statements
+* Reduce the number of `if` statements
 * Reduce the number of variables
-* Reduce the number of if statements
-* Reduce the number of for statements
 
-# Testing tips:
-
-* Test for at least 7 different additional cases:
-* Empty array
-* One element array
-* Two elements array
-* Three elements array with something wrong on the first element
-* Three elements array with something wrong on the last element
-* Three elements array, all having the same value
-* Three elements array, all having extreme values
-
+# Testing tips
+* Try adding weird values in your data (0, -1, 1)
+* Try to have weird data lengths (0, 1)
+* Try adding random values in the example data set
 
 # Content
-The * sign means that I didn't finish all the tasks with a score of 100, I need to read the material and retry the tasks  
+
+The * sign means that I didn't get a 100 score, I need to retry the task  
 
 ### 1 - Iterations
 * Reading Material: [(PDF)](https://codility.com/media/train/Iterations.pdf)
